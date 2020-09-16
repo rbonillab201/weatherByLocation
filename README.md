@@ -1,7 +1,7 @@
-Esta es una aplicación para conocer el clima
+## Esta es una aplicación para conocer el clima
 
-Simplemente se debe ingresar la ciudad C:\spring5\node\geolocation>node app -d "New York"
-El sistema respoderá: El clima en New York es de 22.22 y la nubosidad es de 20%
+## Simplemente se debe ingresar la ciudad C:\spring5\node\geolocation>node app -d "New York"
+## El sistema respoderá: El clima en New York es de 22.22 y la nubosidad es de 20%
 
 =============================================================
 
